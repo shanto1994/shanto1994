@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Kamruzzaman
-- 👀 I’m interested in playing games, watching football, listening songs, watching movies, problem solving.
-- 🌱 I’m currently learning Tableu, PowerBI.
+- 👀 I’m interested in navigationg with data, playing games, watching football, listening songs, watching movies, problem solving.
+- 🌱 I’m currently learning data science tools.
 - 💞️ I’m looking for internship, part time or full time job in data scientist or data analysist.
 -
 
